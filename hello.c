@@ -1,3 +1,9 @@
+/**
+  * Authors: Iris Berrios and Jacob Dill
+  * Date: 2019/08/29
+  *A program that says our names and majors.
+  */
+
 #include<stdlib.h>
 #include<stdio.h>
 
