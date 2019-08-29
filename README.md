@@ -1,2 +1,5 @@
 # hello
- A simple hello world style program
+ 
+A simple program to print my name
+
+Iris Berrios and Jacob Dill
